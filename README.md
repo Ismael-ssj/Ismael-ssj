@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Ismael-ssj
-- 👀 I’m interested todo o relacionado con la tecnologia.
-- 🌱 I’m currently estudiando ingenieria mecatronic
-- 📍 Vivo en Mexico,CDMX 
-
-<!---
-Ismael-ssj/Ismael-ssj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ismael a Mexican enthusiast passionate about the world of web 3, cryptocurrencies and blockchain technology. Although my command of English is developing, my dedication to this field knows no limits.
+- ❤️ In addition, I study data science at the IPN, which gives me a solid foundation to analyze and understand data specific to blockchain technology and cryptocurrencies.
+- 🫂 I am committed to expanding my knowledge and skills, collaborating with like-minded people and contributing meaningfully to projects that push the boundaries of what is possible in the web 3 space.
+- 👥 Join me on this exciting journey as we harness the power of decentralization to create a more inclusive and equitable future for all.
+- 📍 I live in CDMX, México.
